@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework Deriel Arrojab 2
+# CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
 
